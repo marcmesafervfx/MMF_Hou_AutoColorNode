@@ -1,4 +1,4 @@
-# 🚀 Automatic Node Color By Naming Convention (Houdini Tool)
+# 🚀 Automatic Node Color By Naming Convention
 
 This tool automatically **assigns colors to Houdini nodes based on their naming convention**. It listens to node creation and renaming events inside the `/obj` context and applies a consistent visual coding system using keywords embedded in node names.
 
